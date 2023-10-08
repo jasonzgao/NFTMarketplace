@@ -1,0 +1,15 @@
+{
+	"attributes" : [
+    	{
+        	"trait_type" : "Animal",
+        	"value" : "Dog"
+    	},
+    	{
+        	"trait_type" : "Age",
+        	"value" : "Puppy"
+    	}
+	],
+	"description" : "A cute dog",
+	"image" : "ipfs://QmPvuC8NiNj5AxHGtHfenS15WjXvsXpYUhFpzSjvExdjBu",
+	"name" : "Dog"
+}
